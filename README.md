@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning
 
 This repository contains implementations and study materials for core Machine Learning concepts.
@@ -77,3 +78,6 @@ machine_learning/
 
 The purpose of this repository is to organize and practice core machine learning techniques and understand the end-to-end workflow from training models to deploying them in production.
 
+=======
+# Machine-Learning
+>>>>>>> 998fd4ad50f5b61aab2f2bb5a59dae5c4f482294
